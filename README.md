@@ -32,7 +32,8 @@ A simple, command-line based Budget Tracker built in Python that allows users to
 
 ## 📂 File Structure
 
-budget_tracker.py # Main Python script
+budget_tracker.py # Main Python script 
+
 expenses.csv # Automatically created to store expense data
 
 ---
